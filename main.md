@@ -12,6 +12,7 @@ leap motion
 flip dots  
 投影用泡沫  
 投影用人物头肩像
+如何使用
 
 
 
